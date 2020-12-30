@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>TEAAPI-e094fa0c-1e4c-4301-8dd5-1fb8a5317591</UserSecretsId>
+  </PropertyGroup>
+
+
+</Project>
