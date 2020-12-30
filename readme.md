@@ -1,1 +1,1 @@
-![alt text](https://github.com/heimzza/apiGatewayEnvoyDocker/blob/main/apigateway.PNG)
+![alt text](https://github.com/heimzza/apiGatewayEnvoyHttpsDocker/blob/main/apigateway.PNG)
